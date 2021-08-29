@@ -1,5 +1,6 @@
 ### 👋 Hi, I’m Yashmika Anusara
 ### 👀 I’m interested in Computer Programming
+### 🔭 I’m currently studying at SLIIT
 ### 🌱 I’m currently learning Mern Stack
 <!--
 **YashmikaAnusara/YashmikaAnusara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
