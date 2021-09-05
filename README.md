@@ -8,10 +8,7 @@
 <img src="Android Studio.png" width="39px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="r.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 
-
-### 👋 Hi, I’m Yashmika Anusara
 ### 👀 I’m interested in Computer Programming
-### 🌱 I’m currently learning Mern Stack
 <!--
 **YashmikaAnusara/YashmikaAnusara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
