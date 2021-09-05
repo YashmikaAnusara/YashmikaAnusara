@@ -3,9 +3,9 @@
 ### What I'm currently learning:
 
 <img src="react.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="node.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="node.png" width="33px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="express.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="Android Studio.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Android Studio.png" width="39px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="r.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 
 
