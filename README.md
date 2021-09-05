@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨,I’m Yashmika Anusara <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨, I’m Yashmika Anusara <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 ### 👋 Hi, I’m Yashmika Anusara
 ### 👀 I’m interested in Computer Programming
