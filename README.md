@@ -1,5 +1,14 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨, I’m Yashmika Anusara <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
+### What I'm currently learning:
+
+<img src="react.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="node.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="express.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Android Studio.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
 ### 👋 Hi, I’m Yashmika Anusara
 ### 👀 I’m interested in Computer Programming
 ### 🌱 I’m currently learning Mern Stack
