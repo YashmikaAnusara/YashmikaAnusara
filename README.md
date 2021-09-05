@@ -6,7 +6,7 @@
 <img src="node.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="express.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="Android Studio.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-
+<img src="r.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ### 👋 Hi, I’m Yashmika Anusara
