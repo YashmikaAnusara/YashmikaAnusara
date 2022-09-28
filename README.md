@@ -3,13 +3,12 @@
 <!--### What I'm Currently Learning:
 <p align="left"> </p>-->
 
+### 👀 &nbsp;I’m interested in Computer Programming
+
 ###  🚀 &nbsp;Some Tools I Have Used and Learned
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,css,figma,firebase,html,ai,java,sqlite,ps,php,py,androidstudio,mongodb,nodejs,react,xd,vscode,visualstudio,unity,mysql,materialui,laravel,js,idea,express,eclipse,azure)
 
-### 👀 I’m interested in Computer Programming
-
-
-<h3 align="left">Connect with me:</h3>
+### 📫 &nbsp;Connect with me:
 
 <a href="" target="blank"></a>
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yashmika-anusara-3385001a0)
